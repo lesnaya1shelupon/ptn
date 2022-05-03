@@ -1,4 +1,4 @@
-print("Write nubmers")
+print("Write numbers")
 a2 = int(input("a2"))
 a = int(input("a1"))
 b2 = int(input("b2"))
